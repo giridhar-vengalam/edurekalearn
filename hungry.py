@@ -8,8 +8,6 @@ are you hungry
 	print("eat food")
 else:
 	print("dont eat food")
-
-	
 dont eat food
 >>> 
 >>> 
